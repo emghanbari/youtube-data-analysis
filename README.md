@@ -85,11 +85,11 @@ using VADER sentiment scoring.
 
 ## Key Findings
 
-* Entertainment-related content showed strong performance among trending videos.
-* Audience sentiment was predominantly positive across many categories.
-* High view counts did not always correspond to high engagement rates.
-* Emoji usage provided additional context for understanding audience reactions.
-* Engagement metrics offered deeper insights than view counts alone.
+- Music was the dominant category in overall attention share.
+- Entertainment consistently generated high engagement levels.
+- Emoji usage revealed strong positive audience sentiment.
+- Engagement rates varied significantly across content categories.
+- Trending momentum changed dynamically over time, highlighting shifts in audience interests.
 
 ---
 
@@ -142,16 +142,23 @@ youtube_data_analysis.ipynb
 
 ## Sample Visualizations
 
-Project visualizations can be found in the `images/` directory.
+### Most Used Emojis
+![Most Used Emojis](images/Most_used_emojis.png)
 
-Example:
+### Category Trending Momentum
+![Category Trending Momentum](images/category_trending_momentum.png)
 
-```markdown
-![Sentiment Analysis](images/sentiment_analysis.png)
+### Top Categories Trend
+![Top Categories Trend](images/top_categories_trend.png)
 
-![Category Analysis](images/category_analysis.png)
-```
+### Views vs Engagement
+![Views vs Engagement](images/views_vs_engagement.png)
 
+### Audience Engagement by Category
+![Audience Engagement by Category](images/audience_engagement_by_category.png)
+
+### Category Engagement Efficiency
+![Category Engagement Efficiency](images/category_engagement_efficiency.png)
 ---
 
 ## Author
