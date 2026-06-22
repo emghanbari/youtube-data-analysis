@@ -159,5 +159,3 @@ Example:
 **Melika Ghanbari**
 
 Data Analytics Enthusiast
-
-GitHub: https://github.com/melika-ghanbari
