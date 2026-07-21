@@ -8,7 +8,7 @@ The dashboard transforms the cleaned YouTube dataset into interactive business i
 
 ## 📷 Dashboard Preview
 
-![YouTube Dashboard](screenshots/youtube-dashboard.png)
+![YouTube Dashboard](screenshots/youtube-dashboard.PNG)
 
 ---
 
